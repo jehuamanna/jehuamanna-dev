@@ -5,7 +5,7 @@ theme = 'hugo-paper'
 
 [params]
   twitter = 'jehuamanna'
-  name = 'jehuamanna'
+  name = 'Jehu Amanna'
   bio = 'Mechanical engineer from NITK · Ex-Microsoft · Frontend solutions architect'
 
 [[menu.main]]
