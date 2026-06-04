@@ -12,7 +12,7 @@ Very recently I decided to start again what I left off. My goal is not to secure
 
 In addition to the technical skills developed, there are other life skills that will be developed too. For example, reverse engineers don't give up, and are persistent, overcome frustration, always hopeful, patient, tactful, retrospective, and more.
 
-I love the world of reversing, for I feel it's so magical. You make and break things that are not meant to be done. You engage with like-minded people without their presence. Especially when you are analyzing malware, it's always a couple's dance between the malware author and the reverse engineer. They always try to be in sync and, at the same time, challenge one another.
+I love the world of reversing, for I feel it's so magical. You make and break things that are not meant to be done. You engage with like-minded people without their presence. Especially when you are analyzing malware, it's always a couple's dance between the malware author and the reverse engineer. They always try to be in sync and, at the same time, think what the next move should be.
 
 Reversing taught me so much about computer science. I never formally studied operating systems, networks, virtual machines, compilers, programming languages, etc. I am forced to think about these systems during reversing in order to get better at it.
 
