@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'jehuamanna'
+theme = 'hugo-paper'
+
+[params]
+  twitter = 'jehuamanna'
