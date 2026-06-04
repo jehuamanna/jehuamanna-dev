@@ -5,6 +5,18 @@ theme = 'hugo-paper'
 
 [params]
   twitter = 'jehuamanna'
+  name = 'jehuamanna'
+  bio = 'Mechanical engineer from NITK · Ex-Microsoft · Frontend solutions architect'
+
+[[menu.main]]
+  name = 'About'
+  url = '/about/'
+  weight = 1
+
+[[menu.main]]
+  name = 'Posts'
+  url = '/posts/'
+  weight = 2
 
 [caches]
   [caches.images]
