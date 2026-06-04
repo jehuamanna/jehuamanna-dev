@@ -5,3 +5,7 @@ theme = 'hugo-paper'
 
 [params]
   twitter = 'jehuamanna'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
